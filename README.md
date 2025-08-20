@@ -1,4 +1,4 @@
- 🎙️ Real-Time Audio Amplifier
+ # 🎙️ Real-Time Audio Amplifier
 
 A simple Python project that captures audio from your microphone, amplifies it in real-time, and plays it back through your speakers. Built using **PyAudio** and **NumPy**.
 
